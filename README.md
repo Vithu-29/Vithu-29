@@ -7,10 +7,6 @@
  problem-solving skills, full-stack development knowledge, and eagerness to learn in delivering efficient,
  real-world software solutions.</p>
 <br>
-<p align="center">
-  <a href="https://www.linkedin.com/in/vithu29/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:vithukanes@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
-</p>
 
 <h2 align="left">Languages & Tools:</h2>
 
